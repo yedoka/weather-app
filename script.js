@@ -5,7 +5,7 @@ const temp = document.getElementById("temp");
 const weatherImage = document.getElementById("weather-image");
 const details = document.getElementById("details");
 
-const APIKey = "ddd75228f8eccb00edac19fc87abe8f6";
+const APIKey = "";
 
 btn.addEventListener("click", async (event) => {
   event.preventDefault();
